@@ -9,7 +9,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "text": "Echo testing the app"
+    "test": "Echo testing the app"
   },
   "prettier": {
     "semi": false,
