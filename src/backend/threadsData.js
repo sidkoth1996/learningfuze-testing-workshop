@@ -13,7 +13,7 @@ export const threads = {
     content: 'This is the content for the thread',
     comments: ['5tvf1vv39', '7sack1xhe'],
     reactions: {
-      '🔥': 30,
+      '🔥': 40,
       '👍': 20,
     },
   },

@@ -9,7 +9,12 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "test": "echo testing the app"
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "./src/**/*.js"
+    ]
   },
   "prettier": {
     "semi": false,
